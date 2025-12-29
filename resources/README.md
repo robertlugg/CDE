@@ -7,3 +7,11 @@ There is a huge ecosystem of free software for Linux, but since each Linux distr
 https://www.usenix.org/legacy/event/lisa11/tech/slides/guo.pdf - ( [local copy](guo.pdf) )
 ## Paper
 https://pg.ucsd.edu/publications/CDE-create-portable-Linux-packages_LISA-2011.pdf - ( [local copy ](https://pg.ucsd.edu/publications/CDE-create-portable-Linux-packages_LISA-2011.pdf) )
+### Citation
+    @inproceedings{inproceedings,
+    author = {Guo, Philip},
+    year = {2011},
+    month = {12},
+    pages = {2-2},
+    title = {CDE: Run Any Linux Application On-Demand Without Installation}
+    }
